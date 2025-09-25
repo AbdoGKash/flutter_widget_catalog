@@ -1,16 +1,12 @@
-# flutter_widget_catalog
+# 🚀 Welcome to the Flutter Widget Catalog repository!
 
-A new Flutter project.
+This repository is a personal practice project where I experiment with different Flutter widgets from the official Flutter documentation:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🔧  Overview
 
-A few resources to get you started if this is your first Flutter project:
+* **📚 The purpose is educational — to learn and practice widgets that I haven’t used before..**<br>
+* **🔄 The repo is continuously updated as I explore more widgets..**<br>
+* **🎯 Goal: build hands-on experience with Flutter’s wide variety of widgets..**<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
